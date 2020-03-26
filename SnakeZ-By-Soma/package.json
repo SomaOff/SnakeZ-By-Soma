@@ -1,5 +1,5 @@
 {
-  "name": "SnakeZ",
+  "name": "SnakeZ-By-Soma",
   "version": "1.0.0",
   "description": "Snake game JavaScript using the Canvas API",
   "main": "app.js",
@@ -10,14 +10,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/SomaOff/SnakeZ.git"
+    "url": "https://github.com/SomaOff/SnakeZ-By-Soma.git"
   },
   "author": "SomaOff",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/SomaOff/SnakeZ/issues"
+    "url": "https://github.com/SomaOff/SnakeZ-By-Soma/issues"
   },
-  "homepage": "https://SomaOff.github.io/SnakeZ",
+  "homepage": "https://github.com/SomaOff/SnakeZ-By-Soma.git",
   "devDependencies": {
     "gh-pages": "^1.2.0"
   }
