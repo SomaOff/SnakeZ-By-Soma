@@ -1,7 +1,7 @@
 {
   "name": "SnakeZ",
   "version": "1.0.0",
-  "description": "Classic snake game built in vanilla JavaScript using the Canvas API",
+  "description": "Snake game JavaScript using the Canvas API",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
